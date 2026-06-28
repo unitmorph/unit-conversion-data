@@ -1,0 +1,48 @@
+{
+  "category": "Length",
+  "base_unit": "meter",
+  "description": "Common length conversion factors based on the meter.",
+
+  "units": [
+    {
+      "name": "Kilometer",
+      "symbol": "km",
+      "factor": 1000
+    },
+    {
+      "name": "Meter",
+      "symbol": "m",
+      "factor": 1
+    },
+    {
+      "name": "Centimeter",
+      "symbol": "cm",
+      "factor": 0.01
+    },
+    {
+      "name": "Millimeter",
+      "symbol": "mm",
+      "factor": 0.001
+    },
+    {
+      "name": "Mile",
+      "symbol": "mi",
+      "factor": 1609.344
+    },
+    {
+      "name": "Yard",
+      "symbol": "yd",
+      "factor": 0.9144
+    },
+    {
+      "name": "Foot",
+      "symbol": "ft",
+      "factor": 0.3048
+    },
+    {
+      "name": "Inch",
+      "symbol": "in",
+      "factor": 0.0254
+    }
+  ]
+}
