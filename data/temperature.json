@@ -1,0 +1,19 @@
+{
+  "category": "Temperature",
+  "base_unit": "celsius",
+
+  "units": [
+    {
+      "name": "Celsius",
+      "symbol": "°C"
+    },
+    {
+      "name": "Fahrenheit",
+      "symbol": "°F"
+    },
+    {
+      "name": "Kelvin",
+      "symbol": "K"
+    }
+  ]
+}
